@@ -1,5 +1,10 @@
 # practice__vue_tips
 
+## Versions
+### ・Vue.js 2.6.10
+### ・Vuex 3.1.1
+
+
 ## Project setup
 ```
 yarn install
