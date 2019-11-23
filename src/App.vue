@@ -7,9 +7,9 @@
 </template>
 
 <script>
-import Chapter1_1 from './components/Chapter1_1.vue'
-import Chapter1_2 from './components/Chapter1_2.vue'
-import Chapter1_3 from './components/Chapter1_3.vue'
+import Chapter1_1 from './components/Chapter1/1.vue'
+import Chapter1_2 from './components/Chapter1/2.vue'
+import Chapter1_3 from './components/Chapter1/3.vue'
 
 export default {
   name: 'app',
