@@ -1,6 +1,7 @@
 <template>
   <div>
     <div>
+      <h3>Chapter1_1</h3>
       <em>タグの配列</em>
       <ul>
         <li v-for="(tag, index) in tags" v-bind:key="`tag-${index}`">

@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h3>Chapter1_2</h3>
     <em>3桁区切り</em>
     <p> {{ number | separateDigist3 }}</p>
     <em>ゼロ埋め</em>
